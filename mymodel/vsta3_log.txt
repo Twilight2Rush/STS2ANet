@@ -1,0 +1,344 @@
+nohup: ignoring input
+train number:832
+validation number:128
+test number:128
+**********
+start seed 42
+**********
+Epoch: 00, Loss: 4.5360
+test loss: 4.0354
+Epoch: 01, Loss: 3.6009
+test loss: 3.2595
+Epoch: 02, Loss: 3.1687
+test loss: 2.8502
+Epoch: 03, Loss: 2.9325
+test loss: 2.6389
+Epoch: 04, Loss: 2.7727
+test loss: 2.5011
+Epoch: 05, Loss: 2.5065
+test loss: 2.3051
+Epoch: 06, Loss: 2.3684
+test loss: 2.1533
+Epoch: 07, Loss: 2.2277
+test loss: 2.0263
+Epoch: 08, Loss: 2.1131
+test loss: 1.9610
+Epoch: 09, Loss: 2.0312
+test loss: 1.8701
+Epoch: 10, Loss: 2.0031
+test loss: 1.8570
+Epoch: 11, Loss: 1.9632
+test loss: 1.7907
+Epoch: 12, Loss: 1.9143
+Epoch: 13, Loss: 1.8077
+test loss: 1.7392
+Epoch: 14, Loss: 1.7592
+test loss: 1.7328
+Epoch: 15, Loss: 1.7175
+test loss: 1.6606
+Epoch: 16, Loss: 1.8947
+Epoch: 17, Loss: 1.6741
+test loss: 1.6487
+Epoch: 18, Loss: 1.6117
+test loss: 1.6448
+Epoch: 19, Loss: 1.5719
+test loss: 1.5805
+Epoch: 20, Loss: 1.6255
+Epoch: 21, Loss: 1.5822
+test loss: 1.5614
+Epoch: 22, Loss: 1.6562
+Epoch: 23, Loss: 1.6930
+Epoch: 24, Loss: 1.7660
+Epoch: 25, Loss: 1.6856
+Epoch: 26, Loss: 1.6733
+Epoch: 27, Loss: 1.5108
+test loss: 1.5244
+Epoch: 28, Loss: 1.6137
+Epoch: 29, Loss: 1.4696
+test loss: 1.4871
+Epoch: 30, Loss: 1.7516
+Epoch: 31, Loss: 1.4833
+Epoch: 32, Loss: 1.4866
+Epoch: 33, Loss: 1.5746
+Epoch: 34, Loss: 1.4167
+test loss: 1.4657
+Epoch: 35, Loss: 1.4190
+Epoch: 36, Loss: 1.3798
+test loss: 1.4588
+Epoch: 37, Loss: 1.3859
+test loss: 1.4456
+Epoch: 38, Loss: 1.3468
+Epoch: 39, Loss: 1.3473
+test loss: 1.4206
+Epoch: 40, Loss: 1.3341
+Epoch: 41, Loss: 1.3442
+Epoch: 42, Loss: 1.2925
+Epoch: 43, Loss: 1.2610
+test loss: 1.4009
+Epoch: 44, Loss: 1.2568
+Epoch: 45, Loss: 1.2502
+test loss: 1.3888
+Epoch: 46, Loss: 1.2630
+Epoch: 47, Loss: 1.2932
+Epoch: 48, Loss: 1.2594
+Epoch: 49, Loss: 1.2505
+test loss: 1.3755
+Epoch: 50, Loss: 1.2285
+Epoch: 51, Loss: 1.2072
+test loss: 1.3591
+Epoch: 52, Loss: 1.2022
+Epoch: 53, Loss: 1.1890
+test loss: 1.3516
+Epoch: 54, Loss: 1.1992
+Epoch: 55, Loss: 1.1996
+Epoch: 56, Loss: 1.1965
+Epoch: 57, Loss: 1.1808
+Epoch: 58, Loss: 1.1788
+Epoch: 59, Loss: 1.1606
+test loss: 1.3407
+Epoch: 60, Loss: 1.1562
+Epoch: 61, Loss: 1.1316
+test loss: 1.3251
+Epoch: 62, Loss: 1.1235
+test loss: 1.3240
+Epoch: 63, Loss: 1.1157
+test loss: 1.3173
+Epoch: 64, Loss: 1.1091
+test loss: 1.3172
+Epoch: 65, Loss: 1.1092
+test loss: 1.3107
+Epoch: 66, Loss: 1.1069
+Epoch: 67, Loss: 1.1111
+test loss: 1.3041
+Epoch: 68, Loss: 1.1162
+Epoch: 69, Loss: 1.1134
+test loss: 1.2997
+Epoch: 70, Loss: 1.1135
+Epoch: 71, Loss: 1.0991
+test loss: 1.2977
+Epoch: 72, Loss: 1.1084
+Epoch: 73, Loss: 1.1228
+Epoch: 74, Loss: 1.1541
+Epoch: 75, Loss: 1.2527
+Epoch: 76, Loss: 1.1593
+Epoch: 77, Loss: 1.1563
+Epoch: 78, Loss: 1.1067
+Epoch: 79, Loss: 1.1063
+Epoch: 80, Loss: 1.0810
+Epoch: 81, Loss: 1.0734
+Early stopping at epoch 81.
+**********
+start seed 3407
+**********
+Epoch: 00, Loss: 4.5307
+test loss: 3.9970
+Epoch: 01, Loss: 3.5728
+test loss: 3.2154
+Epoch: 02, Loss: 3.1426
+test loss: 2.8252
+Epoch: 03, Loss: 2.8269
+test loss: 2.5335
+Epoch: 04, Loss: 2.6368
+test loss: 2.3867
+Epoch: 05, Loss: 2.4574
+test loss: 2.2368
+Epoch: 06, Loss: 2.3357
+test loss: 2.0978
+Epoch: 07, Loss: 2.4318
+Epoch: 08, Loss: 2.1552
+test loss: 1.9777
+Epoch: 09, Loss: 2.1702
+test loss: 1.9276
+Epoch: 10, Loss: 1.9999
+test loss: 1.8607
+Epoch: 11, Loss: 1.9280
+test loss: 1.8515
+Epoch: 12, Loss: 1.8586
+test loss: 1.7598
+Epoch: 13, Loss: 1.9168
+Epoch: 14, Loss: 1.7448
+test loss: 1.7193
+Epoch: 15, Loss: 1.6950
+test loss: 1.6655
+Epoch: 16, Loss: 1.6447
+test loss: 1.6111
+Epoch: 17, Loss: 1.5984
+test loss: 1.5996
+Epoch: 18, Loss: 1.5560
+test loss: 1.5580
+Epoch: 19, Loss: 1.5226
+test loss: 1.5506
+Epoch: 20, Loss: 1.5015
+test loss: 1.5312
+Epoch: 21, Loss: 1.4735
+test loss: 1.5239
+Epoch: 22, Loss: 1.4619
+test loss: 1.5052
+Epoch: 23, Loss: 1.4622
+test loss: 1.4903
+Epoch: 24, Loss: 1.5587
+Epoch: 25, Loss: 1.4211
+test loss: 1.4839
+Epoch: 26, Loss: 1.4205
+test loss: 1.4698
+Epoch: 27, Loss: 1.3874
+test loss: 1.4416
+Epoch: 28, Loss: 1.3649
+test loss: 1.4332
+Epoch: 29, Loss: 1.3492
+Epoch: 30, Loss: 1.3554
+test loss: 1.4240
+Epoch: 31, Loss: 1.3366
+Epoch: 32, Loss: 1.3221
+test loss: 1.4068
+Epoch: 33, Loss: 1.3193
+test loss: 1.4068
+Epoch: 34, Loss: 1.3097
+test loss: 1.4030
+Epoch: 35, Loss: 1.2951
+Epoch: 36, Loss: 1.3192
+Epoch: 37, Loss: 1.4374
+Epoch: 38, Loss: 1.3085
+test loss: 1.3980
+Epoch: 39, Loss: 1.2394
+test loss: 1.3779
+Epoch: 40, Loss: 1.2175
+test loss: 1.3570
+Epoch: 41, Loss: 1.2073
+test loss: 1.3515
+Epoch: 42, Loss: 1.1945
+Epoch: 43, Loss: 1.1873
+test loss: 1.3415
+Epoch: 44, Loss: 1.1983
+Epoch: 45, Loss: 1.2015
+Epoch: 46, Loss: 1.1703
+Epoch: 47, Loss: 1.1734
+test loss: 1.3404
+Epoch: 48, Loss: 1.1652
+test loss: 1.3285
+Epoch: 49, Loss: 1.1871
+Epoch: 50, Loss: 1.1446
+Epoch: 51, Loss: 1.1428
+test loss: 1.3275
+Epoch: 52, Loss: 1.1370
+test loss: 1.3168
+Epoch: 53, Loss: 1.1308
+Epoch: 54, Loss: 1.1212
+test loss: 1.3149
+Epoch: 55, Loss: 1.1330
+Epoch: 56, Loss: 1.1562
+Epoch: 57, Loss: 1.1301
+Epoch: 58, Loss: 1.1489
+Epoch: 59, Loss: 1.1334
+Epoch: 60, Loss: 1.2283
+Epoch: 61, Loss: 1.1832
+Epoch: 62, Loss: 1.2820
+Epoch: 63, Loss: 1.1890
+Epoch: 64, Loss: 1.1542
+Early stopping at epoch 64.
+**********
+start seed 114514
+**********
+Epoch: 00, Loss: 4.5625
+test loss: 4.0293
+Epoch: 01, Loss: 3.6073
+test loss: 3.2765
+Epoch: 02, Loss: 3.2240
+test loss: 2.9075
+Epoch: 03, Loss: 2.9761
+test loss: 2.7127
+Epoch: 04, Loss: 2.6827
+test loss: 2.4337
+Epoch: 05, Loss: 2.4814
+test loss: 2.3017
+Epoch: 06, Loss: 2.3151
+test loss: 2.1057
+Epoch: 07, Loss: 2.2764
+Epoch: 08, Loss: 2.1518
+test loss: 1.9678
+Epoch: 09, Loss: 2.1188
+Epoch: 10, Loss: 1.9774
+test loss: 1.8435
+Epoch: 11, Loss: 1.9568
+Epoch: 12, Loss: 1.8964
+test loss: 1.7720
+Epoch: 13, Loss: 1.9109
+test loss: 1.7508
+Epoch: 14, Loss: 1.7999
+test loss: 1.7211
+Epoch: 15, Loss: 1.7416
+test loss: 1.6824
+Epoch: 16, Loss: 1.6987
+test loss: 1.6533
+Epoch: 17, Loss: 1.6303
+test loss: 1.6251
+Epoch: 18, Loss: 1.5836
+test loss: 1.5849
+Epoch: 19, Loss: 1.5371
+test loss: 1.5730
+Epoch: 20, Loss: 1.5127
+test loss: 1.5487
+Epoch: 21, Loss: 1.4844
+test loss: 1.5189
+Epoch: 22, Loss: 1.5307
+Epoch: 23, Loss: 1.4611
+test loss: 1.5067
+Epoch: 24, Loss: 1.4688
+Epoch: 25, Loss: 1.4451
+Epoch: 26, Loss: 1.4029
+test loss: 1.4848
+Epoch: 27, Loss: 1.3946
+Epoch: 28, Loss: 1.4240
+Epoch: 29, Loss: 1.3961
+test loss: 1.4464
+Epoch: 30, Loss: 1.5337
+Epoch: 31, Loss: 1.4552
+Epoch: 32, Loss: 1.3678
+test loss: 1.4270
+Epoch: 33, Loss: 1.3361
+Epoch: 34, Loss: 1.2954
+test loss: 1.4062
+Epoch: 35, Loss: 1.2846
+Epoch: 36, Loss: 1.2652
+test loss: 1.3888
+Epoch: 37, Loss: 1.2653
+Epoch: 38, Loss: 1.2459
+test loss: 1.3882
+Epoch: 39, Loss: 1.2414
+Epoch: 40, Loss: 1.2291
+test loss: 1.3676
+Epoch: 41, Loss: 1.2277
+Epoch: 42, Loss: 1.2082
+test loss: 1.3618
+Epoch: 43, Loss: 1.1975
+Epoch: 44, Loss: 1.1919
+test loss: 1.3518
+Epoch: 45, Loss: 1.1769
+Epoch: 46, Loss: 1.1802
+test loss: 1.3464
+Epoch: 47, Loss: 1.1974
+Epoch: 48, Loss: 1.1939
+test loss: 1.3419
+Epoch: 49, Loss: 1.1863
+Epoch: 50, Loss: 1.2060
+Epoch: 51, Loss: 1.1518
+Epoch: 52, Loss: 1.1507
+Epoch: 53, Loss: 1.1531
+test loss: 1.3350
+Epoch: 54, Loss: 1.1308
+test loss: 1.3303
+Epoch: 55, Loss: 1.1213
+test loss: 1.3252
+Epoch: 56, Loss: 1.1270
+test loss: 1.3245
+Epoch: 57, Loss: 1.1312
+Epoch: 58, Loss: 1.1281
+Epoch: 59, Loss: 1.1412
+Epoch: 60, Loss: 1.1348
+Epoch: 61, Loss: 1.1850
+Epoch: 62, Loss: 1.1329
+Epoch: 63, Loss: 1.1269
+Epoch: 64, Loss: 1.1538
+Epoch: 65, Loss: 1.1717
+Epoch: 66, Loss: 1.1940
+Early stopping at epoch 66.
